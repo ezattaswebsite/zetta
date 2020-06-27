@@ -12,3 +12,5 @@ section .first .suport img{background: transparent; width: 200px; position: abso
 @media(min-width: 370px){section .first .texto{display: none;}}
 @media(min-width: 630px){section .first .texto{display: inline-block;}}
 @media(min-width: 320px){/*Tamanho mínimo para abrir página*/}
+.robot{width: 90px; height: 110px; position: absolute; float: left; background: transparent; top: 28px; right: 0; margin-top: 65px;  z-index: 20}
+.robot img{width: 100%}
