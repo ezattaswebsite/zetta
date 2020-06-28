@@ -13,6 +13,6 @@ function displayContent(){
 	document.getElementById('content').style.display = 'block';
 }
 document.addEventListener("DOMContentLoaded", function(){
-	loader = document.getElementById('loading-screen');
+	loader = document.getElementById('preloader');
 	loadNow(1)
 });
