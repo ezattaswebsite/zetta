@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="loading.svg"
+   version="1.1"
+   viewBox="0 0 476.18 476.18"
+   data-name="Camada 1"
+   id="Camada_1">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Camada_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="238.09"
+     inkscape:cx="238.09"
+     inkscape:zoom="1.7430384"
+     showgrid="false"
+     id="namedview25"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#f7fe00;stroke-miterlimit:10;stroke-width:9px;}.cls-2{fill:#f7fe00;}</style>
+  </defs>
+  <title
+     id="title6">Logo Zetta SVG</title>
+  <rect
+     id="rect8"
+     height="476.18"
+     width="476.18" />
+  <rect
+     id="rect10"
+     height="430.94"
+     width="430.94"
+     y="22.62"
+     x="22.62"
+     class="cls-1" />
+  <path
+     id="path12"
+     transform="translate(-721.91 -301.91)"
+     d="M792,377.8h324.86L794.14,693.09l-3,2.71V638.37l198-193.71s9.43-9.86-6.85-9.43-191.15-1.71-191.15-1.71Z"
+     class="cls-2" />
+  <path
+     id="path14"
+     transform="translate(-721.91 -301.91)"
+     d="M1121.32,708.3H793.5L968.1,536.8l150.38-146.13-1.62,57.42L924.18,641.45s-9.43,9.85,6.86,9.42,191.14,1.72,191.14,1.72Z"
+     class="cls-2" />
+  <rect
+     style="fill:#000000;fill-opacity:1"
+     id="rect16"
+     height="476.18"
+     width="476.18" />
+  <rect
+     id="rect18"
+     height="430.94"
+     width="430.94"
+     y="22.62"
+     x="22.62"
+     class="cls-1" />
+  <path
+     id="path20"
+     transform="translate(-721.91 -301.91)"
+     d="M792,377.8h324.86L794.14,693.09l-3,2.71V638.37l198-193.71s9.43-9.86-6.85-9.43-191.15-1.71-191.15-1.71Z"
+     class="cls-2" />
+  <path
+     id="path22"
+     transform="translate(-721.91 -301.91)"
+     d="M1121.32,708.3H793.5L968.1,536.8l150.38-146.13-1.62,57.42L924.18,641.45s-9.43,9.85,6.86,9.42,191.14,1.72,191.14,1.72Z"
+     class="cls-2" />
+</svg>

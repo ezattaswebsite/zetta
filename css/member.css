@@ -1,4 +1,9 @@
 .robo{width: 130px; height: 170px; position: fixed; bottom: 70px; background: transparent;}
 .robo img{width: 100%}
-.cards{display: block; width: 230px; height: 800px; background: #666; left: 130px; margin-top: 80px; position: absolute;}
-.card{display: block; width: 90%; height: 150px; background: #555; margin: auto; margin-top: 15px; border-radius: 5px}
+.cards{display: block; width: 230px; height: 870px; background: transparent; left: 130px; margin-top: 80px; position: absolute;}
+.card{display: block; width: 90%; height: 150px; background: #555; margin: auto; margin-top: 15px; border-radius: 3px}
+.projetos{text-align: center; color: #ddd; font-family: verdana; font-size: 10.5pt; margin: 3px}
+.projetos a{text-decoration: none; color: #ddd}
+.projetos p{margin-bottom: 9px}
+.projetos #saiba{border: 1px solid #ddd; padding: 3px; border-radius: 5px}
+@media(min-width: 470px){.cards{margin-left: 10%}}

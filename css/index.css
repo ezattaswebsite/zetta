@@ -9,9 +9,13 @@ section .first .imagem .botao{margin: auto;}
 section .first .imagem .botao button{height: 40px; width: 160px; font-family: orbitron; font-size: 14pt; border-radius: 5px; outline: none; border: none; text-transform: uppercase; background: #666; color: #fff; border-bottom: 2px solid #222; border-right: 2px solid #222}
 section .first .suport img{background: transparent; width: 200px; position: absolute; right: 0; margin-top: 0px;}
 @media(min-width: 370px){section .first .texto{width: 50%; right: 5%; background: transparent; position: absolute; height: 150px} section .first .suport img{margin-top: 160px}}
-@media(min-width: 370px){section .first .texto{display: none;}}
+@media(min-width: 370px){section .first .texto p{font-size: 7pt}}
+@media(min-width: 975px){section .first .imagem .robo img{width: 350px}}
+@media(min-width: 545px){section .first .texto p{font-size: 9pt}}
+@media(min-width: 800px){section .first .texto p{font-size: 11pt}}
 @media(min-width: 630px){section .first .texto{display: inline-block;}}
-@media(min-width: 320px){/*Tamanho mínimo para abrir página*/}
+@media(min-width: 320px){.caixa{display: none;}}
+@media(max-width: 320px){header, footer, section{display: none;}}
 .robot{width: 90px; height: 110px; position: absolute; float: left; background: transparent; top: 28px; right: 0; margin-top: 65px;  z-index: 20}
 .robot img{width: 100%}
 .destaque{position: absolute; top: 90px; background: transparent; width: 150px; height: 90px; margin-left: 55%; transform: translateX(-50%);}
@@ -21,3 +25,11 @@ button:hover{color: #333; background: #ddd}
 section .first .imagem .botao button:hover{color: #333; background: #ddd}
 .principais{width: 200px; height: 100px; background: #555; margin-top: 20px; border-radius: 5px; margin-left: 10px;}
 .gap{width: 100%; height: 70px}
+.caixa{position: absolute; width: 100%; height: 100%; background: #333; z-index: 30; top: 0}
+.caixa .interno{height: 230px; width: 200px; background: transparent; margin: auto; margin-top: 60%; font-family: verdana; color: #ddd; text-align: center;}
+.caixa .interno .imagem{height: 70px; width: 100%; background: #888; margin: 10px auto; border-radius: 5px}
+.caixa .interno .imagem img{height: 95%; margin-top: 2px}
+.caixa .interno .imagem #logo{height: 80%; margin: 5px;}
+.caixa .interno p{margin-top: 5px;}
+.caixa .interno p a{color: #f7fe00; text-decoration: none;}
+.caixa .interno .texto{border: 1px solid #999; padding: 10px; padding-bottom: 15px; border-radius: 5px}
