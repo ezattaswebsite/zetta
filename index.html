@@ -9,9 +9,23 @@
 	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<link rel="stylesheet" type="text/css" href="css/loading.css">
 	<link rel="javascript" type="text/javascript" href="js/loading.js">
+	<script type="text/javascript">
+		function fechar(){
+			var x = document.getElementById("loading-screen");
+			x.style.display = "none";
+		}
+	</script>
 </head>
-<body>
-	<header>
+<body onload="fechar();">
+	<div class="loading-screen" id="loading-screen">
+		<div class="loading-animation">
+			<img class="logo" src="svg/loading.svg"></img>
+			<div class="loading-bar">
+			</div>
+		</div>
+	</div>
+	<div class="geral">
+		<header>
 		<div class="logo">
 			<img src="svg/logo.svg" class="logotipo">
 			<img src="svg/hand.svg" class="hand">
@@ -21,7 +35,8 @@
 		</div>
 	</header>
 	<!--////////////////////////////////////////////////////////////////////////-->
-	<div class="robot">
+	<div class="corpo">
+		<div class="robot">
 		<img src="svg/robot-i.svg">
 	</div>
 	<div class="destaque">
@@ -41,7 +56,21 @@
 	<div class="principais">
 		
 	</div>
+	<div class="secao">
+		
+	</div>
 	<article class="gap"></article>
+	<!---------------------------------------------------------------------------->
+	<div class="caixinha">
+		<div class="interno">
+			<h3>Desculpe :(</h3>
+			<div class="imagem"><img src="svg/robot.svg"><img src="svg/logo.svg" id="logo"></div>
+			<div class="texto">
+				<p>Esta página não pode ser carregada neste dispositivo.<br></p>
+				<p>Acesse nosso perfil no <a href="https://www.instagram.com/equipezetta">Instagram!</a></p>
+			</div>
+		</div>
+	</div>
 	<!--////////////////////////////////////////////////////////////////////////-->
 	<footer>
 		<article class="box">
@@ -52,15 +81,6 @@
 			<div class="net"><a href="world.html"><img src="svg/world.svg"></a></div>
 		</article>
 	</footer>
-	<div class="caixinha">
-		<div class="interno">
-			<h3>Desculpe :(</h3>
-			<div class="imagem"><img src="svg/robot.svg"><img src="svg/logo.svg" id="logo"></div>
-			<div class="texto">
-				<p>Esta página não pode ser carregada neste dispositivo.<br></p>
-				<p>Acesse nosso perfil no <a href="https://www.instagram.com/equipezetta">Instagram!</a></p>
-			</div>
-		</div>
 	</div>
 </body>
 </html>
