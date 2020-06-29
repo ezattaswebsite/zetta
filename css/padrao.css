@@ -7,7 +7,7 @@ header{width: 100%; height: 60px; background: #444; position: fixed; top: 0; dis
 .hand{width: 127px; left: 0; background: transparent; position: fixed; top: 60px; z-index: 0}
 .texto{background: transparent; margin: auto;}
 .texto h3{text-transform: uppercase; font-family: orbitron; color: #ff0}
-footer{z-index: 12; background: #252525; width: 100%; height: 50px; position: fixed; bottom: 0; border-top: 1px solid #000; border-bottom: 1px solid #000;}
+footer{z-index: 30; background: #252525; width: 100%; height: 50px; position: fixed; bottom: 0; border-top: 1px solid #000; border-bottom: 1px solid #000;}
 footer article{display: flex; width: 70%; height: 100%; margin: auto;}
 footer article div{background: transparent; height: 40px; width: 40px; margin: auto;}
 footer article div img{width: 40px; height: 40px}

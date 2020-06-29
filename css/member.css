@@ -1,4 +1,4 @@
-.robo{width: 130px; height: 170px; position: fixed; bottom: 70px; background: transparent;}
+.robo{width: 140px; height: 170px; position: fixed; bottom: 70px; background: transparent;}
 .robo img{width: 100%}
 .cards{display: block; width: 230px; height: 870px; background: transparent; left: 130px; margin-top: 80px; position: absolute;}
 .card{display: block; width: 90%; height: 150px; background: #555; margin: auto; margin-top: 15px; border-radius: 3px}
@@ -7,3 +7,6 @@
 .projetos p{margin-bottom: 9px}
 .projetos #saiba{border: 1px solid #ddd; padding: 3px; border-radius: 5px}
 @media(min-width: 470px){.cards{margin-left: 10%}}
+aside.redes-sociais{background: transparent; width: 40px; height: 180px; margin-top: 200px; margin-left: 20px; position: fixed;}
+aside.redes-sociais img{width: 100%; margin-top: 10px; transition: all .3s;}
+aside.redes-sociais img:hover{transform: translate(3px, -3px);}
