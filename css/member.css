@@ -1,6 +1,6 @@
-.robo{width: 140px; height: 170px; position: fixed; bottom: 70px; background: transparent;}
+.robo{width: 140px; height: 150px; position: fixed; bottom: 0px; background: transparent;}
 .robo img{width: 100%}
-.cards{display: block; width: 230px; height: 870px; background: transparent; left: 130px; margin-top: 80px; position: absolute;}
+.cards{display: block; width: 230px; height: 870px; background: transparent; margin-top: 80px; position: absolute; right: 10px}
 .card{display: flex; width: 90%; height: 150px; background: #555; margin: auto; margin-top: 15px; border-radius: 3px}
 .side{width: 45%; background: transparent;}
 .foto{width: 100%; height: 20%; background: #f57d14; border-bottom-right-radius: 5px; border-top-left-radius: 5px}
@@ -12,6 +12,6 @@
 .projetos p{margin-bottom: 9px}
 .projetos #saiba{border: 1px solid #ddd; padding: 3px; border-radius: 5px}
 @media(min-width: 470px){.cards{margin-left: 10%}}
-aside.redes-sociais{background: transparent; width: 40px; height: 180px; margin-top: 200px; margin-left: 20px; position: fixed;}
+aside.redes-sociais{background: transparent; width: 40px; height: 160px; bottom: 150px; margin-left: 50px; position: fixed;}
 aside.redes-sociais img{width: 100%; margin-top: 10px; transition: all .3s;}
 aside.redes-sociais img:hover{transform: translate(3px, -3px);}

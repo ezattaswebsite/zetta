@@ -11,11 +11,12 @@ section .first .suport img{background: transparent; width: 200px; position: abso
 @media(min-width: 370px){section .first .texto{width: 50%; right: 5%; background: transparent; position: absolute; height: 150px} section .first .suport img{margin-top: 160px}}
 @media(min-width: 370px){section .first .texto p{font-size: 7pt}}
 @media(min-width: 975px){section .first .imagem .robo img{width: 350px}}
-@media(min-width: 545px){section .first .texto p{font-size: 9pt}}
+@media(min-width: 545px){section .first .texto p{font-size: 12pt}}
 @media(min-width: 800px){section .first .texto p{font-size: 11pt}}
 @media(min-width: 630px){section .first .texto{display: inline-block;}}
 @media(min-width: 320px){.caixa{display: none;}}
 @media(max-width: 320px){header, footer, section{display: none;}}
+@media(min-width: 480px){section .first .texto p{font-size: 8pt}}
 .robot{width: 90px; height: 110px; position: absolute; float: left; background: transparent; top: 28px; right: 0; margin-top: 65px;  z-index: 20}
 .robot img{width: 100%}
 .destaque{position: absolute; top: 90px; background: transparent; width: 150px; height: 90px; margin-left: 55%; transform: translateX(-50%);}
