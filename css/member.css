@@ -1,7 +1,12 @@
 .robo{width: 140px; height: 170px; position: fixed; bottom: 70px; background: transparent;}
 .robo img{width: 100%}
 .cards{display: block; width: 230px; height: 870px; background: transparent; left: 130px; margin-top: 80px; position: absolute;}
-.card{display: block; width: 90%; height: 150px; background: #555; margin: auto; margin-top: 15px; border-radius: 3px}
+.card{display: flex; width: 90%; height: 150px; background: #555; margin: auto; margin-top: 15px; border-radius: 3px}
+.side{width: 45%; background: transparent;}
+.foto{width: 100%; height: 20%; background: #f57d14; border-bottom-right-radius: 5px; border-top-left-radius: 5px}
+.foto img{width: 50px; margin-top: 10px; margin-left: 20px; border-radius: 100%; border: 2px solid #f77d19;}
+.info{width: 100%; height: 80%; background: transparent;}
+.conteudo{width: 55%; background: transparent; border-radius: 5px}
 .projetos{text-align: center; color: #ddd; font-family: verdana; font-size: 10.5pt; margin: 3px}
 .projetos a{text-decoration: none; color: #ddd}
 .projetos p{margin-bottom: 9px}
