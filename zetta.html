@@ -10,6 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="css/loading.css">
 	<script type="text/javascript" src="js/hand.js"></script>
 	<script type="text/javascript" src="js/loading.js"></script>
+	<script type="text/javascript" src="js/open.js"></script>
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171245772-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -25,7 +26,7 @@
 			</div>
 		</div>
 	</div>
-<body onload="fechar();">
+<body onload="fechar();" onload="desktop();" id="body">
 	<div class="geral">
 		<header>
 		<div class="logo">
@@ -56,7 +57,7 @@
 		</article>
 	</section>
 	<div class="principais">
-		
+		<img class="banner" src="svg/ultrassonico.svg"></img>
 	</div>
 	<div class="secao">
 		
@@ -73,6 +74,15 @@
 			</div>
 		</div>
 	</div>
+	</div>
+	<div id="refresh">
+		<div class="interno">
+			<div class="primeiro">
+				<div class="logotipo"><img src="svg/logo.svg"></div>
+				<div class="recarregar"><a href="index.html">Recarregar</a></div>
+			</div>
+			<div class="aviso"><p>Página não renderizada! Recarregue a página para abrir a versão computador.</p></div>
+		</div>
 	</div>
 	<!--////////////////////////////////////////////////////////////////////////-->
 	<footer>
