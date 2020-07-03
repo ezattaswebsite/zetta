@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IFRAME</title>
+	<script>
+		function trocaBanner(){
+			var num=Math.floor(Math.random()*3);
+			var imgs=['../media/imagens/jpg/mulher-one.jpg','../media/imagens/jpg/mulher-two.jpg','../media/imagens/jpg/mulher-three.jpg'];
+			document.getElementById("banner").src=imgs[num];
+		}
+		function iniciar(){
+			trocaBanner()
+		}
+		window.addEventListener("load",iniciar);
+	</script>
+</head>
+<body>
+	<!-- abrir link em um iframe -->
+	<iframe src="" name="banner" id="banner" width="500" height="500"></iframe>
+	<a href="018-tag-pre-code.html" target="main">Code</a>
+	<iframe src="" name="main" width="500" height="300" style="border:none"></iframe>
+</body>
+</html>
