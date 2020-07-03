@@ -10,17 +10,13 @@
 	<link rel="stylesheet" type="text/css" href="css/loading.css">
 	<script type="text/javascript" src="js/hand.js"></script>
 	<script type="text/javascript" src="js/loading.js"></script>
+	<script type="text/javascript" src="js/open.js"></script>
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171245772-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
 	  gtag('config', 'UA-171245772-1');
-	</script>
-	<script type="text/javascript">
-		if(screen.width > 480){
-	   		location.href="desktop.html";
-	   	}
 	</script>
 </head>
 	<div class="loading-screen" id="loading-screen">
@@ -30,7 +26,7 @@
 			</div>
 		</div>
 	</div>
-<body onload="fechar();">
+<body onload="fechar();" onload="desktop();" id="body">
 	<div class="geral">
 		<header>
 		<div class="logo">
