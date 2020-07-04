@@ -7,12 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="reflexivo.svg"
-   version="1.1"
-   viewBox="0 0 1080 1158.73"
+   height="1158.73"
+   width="1200"
+   id="Camada_1"
    data-name="Camada 1"
-   id="Camada_1">
+   viewBox="0 0 1200 1158.73"
+   version="1.1"
+   sodipodi:docname="reflexivo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata79">
     <rdf:RDF>
@@ -21,29 +23,31 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Baner reflexivo</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="Camada_1"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-9"
-     inkscape:window-x="-9"
-     inkscape:cy="579.36499"
-     inkscape:cx="540"
-     inkscape:zoom="0.73183573"
-     showgrid="false"
-     id="namedview77"
-     inkscape:window-height="1001"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview77"
+     showgrid="false"
+     inkscape:zoom="0.73183573"
+     inkscape:cx="540"
+     inkscape:cy="251.42254"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Camada_1" />
   <defs
      id="defs4">
     <style
@@ -52,186 +56,182 @@
   <title
      id="title6">Baner reflexivo</title>
   <rect
-     style="fill:#151e27;fill-opacity:1"
+     x="0"
+     class="cls-1"
+     y="1.9686096"
+     width="1200.2456"
+     height="1155.6614"
      id="rect8"
-     height="1080"
-     width="1080"
-     y="39.37"
-     class="cls-1" />
+     style="fill:#151e27;fill-opacity:1;stroke-width:1.09051" />
   <path
-     id="path10"
-     d="M627.41,285.12h32.05A68.51,68.51,0,0,1,728,353.62v47.55a84.53,84.53,0,0,1-84.53,84.53h0a84.53,84.53,0,0,1-84.53-84.53V353.62a68.51,68.51,0,0,1,68.51-68.51Z"
-     class="cls-2" />
+     class="cls-2"
+     d="m 683.4335,290.58571 h 32.05 a 68.51,68.51 0 0 1 68.54,68.5 v 47.55 a 84.53,84.53 0 0 1 -84.53,84.53 v 0 a 84.53,84.53 0 0 1 -84.53,-84.53 v -47.55 a 68.51,68.51 0 0 1 68.51,-68.51 z"
+     id="path10" />
   <path
-     id="path12"
-     transform="translate(0 39.37)"
-     d="M521.66,314.26V361.8a84.54,84.54,0,1,1-169.07,0V314.26a68.51,68.51,0,0,1,68.51-68.51h32A68.51,68.51,0,0,1,521.66,314.26Z"
-     class="cls-3" />
+     class="cls-3"
+     d="m 577.6835,359.09571 v 47.54 a 84.54,84.54 0 1 1 -169.07,0 v -47.54 a 68.51,68.51 0 0 1 68.51,-68.51 h 32 a 68.51,68.51 0 0 1 68.56,68.51 z"
+     id="path12" />
   <line
-     id="line14"
-     x2="423"
-     y1="286.55"
-     x1="423"
-     class="cls-4" />
+     y2="5.4657073"
+     class="cls-4"
+     x1="479.0235"
+     y1="292.01569"
+     x2="479.0235"
+     id="line14" />
   <line
-     id="line16"
-     y2="16.3"
-     x2="450.16"
-     y1="302.85"
-     x1="450.16"
-     class="cls-4" />
+     class="cls-4"
+     x1="506.1835"
+     y1="308.3157"
+     x2="506.1835"
+     y2="21.765707"
+     id="line16" />
   <line
-     id="line18"
-     x2="643.44"
-     y1="286.55"
-     x1="643.44"
-     class="cls-4" />
+     y2="5.4657073"
+     class="cls-4"
+     x1="699.4635"
+     y1="292.01569"
+     x2="699.4635"
+     id="line18" />
   <line
-     id="line20"
-     y2="21.73"
-     x2="670.6"
-     y1="308.28"
-     x1="670.6"
-     class="cls-4" />
+     class="cls-4"
+     x1="726.62347"
+     y1="313.7457"
+     x2="726.62347"
+     y2="27.195707"
+     id="line20" />
   <path
-     id="path22"
-     transform="translate(0 39.37)"
-     d="M305.31,189.87V324.55l34.39,31.52H735.13l31.53-31.52V189.87Z" />
+     d="m 361.3335,234.70571 v 134.68 l 34.39,31.52 h 395.43 l 31.53,-31.52 v -134.68 z"
+     id="path22" />
   <line
-     id="line24"
-     y2="364.98"
-     x2="336.37"
-     y1="364.98"
-     x1="738"
-     class="cls-5" />
+     class="cls-5"
+     x1="794.0235"
+     y1="370.44571"
+     x2="392.39349"
+     y2="370.44571"
+     id="line24" />
   <line
-     id="line26"
-     y2="363.92"
-     x2="336.83"
-     y1="229.24"
-     x1="336.83"
-     class="cls-5" />
+     class="cls-5"
+     x1="392.85349"
+     y1="234.70572"
+     x2="392.85349"
+     y2="369.38571"
+     id="line26" />
   <line
-     id="line28"
-     y2="364.98"
-     x2="738"
-     y1="365.35"
-     x1="738"
-     class="cls-5" />
+     class="cls-5"
+     x1="794.0235"
+     y1="370.8157"
+     x2="794.0235"
+     y2="370.44571"
+     id="line28" />
   <line
-     id="line30"
-     y2="230.67"
-     x2="738"
-     y1="363.92"
-     x1="738"
-     class="cls-5" />
+     class="cls-5"
+     x1="794.0235"
+     y1="369.38571"
+     x2="794.0235"
+     y2="236.13571"
+     id="line30" />
   <line
-     id="line32"
-     y2="378.25"
-     x2="322.5"
-     y1="363.92"
-     x1="336.83"
-     class="cls-5" />
+     class="cls-5"
+     x1="392.85349"
+     y1="369.38571"
+     x2="378.5235"
+     y2="383.7157"
+     id="line32" />
   <line
-     id="line34"
-     y2="364.98"
-     x2="739.06"
-     y1="378.25"
-     x1="752.33"
-     class="cls-5" />
+     class="cls-5"
+     x1="808.35352"
+     y1="383.7157"
+     x2="795.0835"
+     y2="370.44571"
+     id="line34" />
   <path
-     id="path36"
-     transform="translate(0 39.37)"
-     d="M548.88,356.07v88.26l-6.31,6.3h-5l-5.85-5.84V356.07Z" />
+     d="m 604.9035,400.90571 v 88.26 l -6.31,6.3 h -5 l -5.85,-5.84 v -88.72 z"
+     id="path36" />
   <rect
-     id="rect38"
-     height="134.72"
+     class="cls-6"
+     x="388.8335"
+     y="239.05571"
      width="406.34"
-     y="233.59"
-     x="332.81"
-     class="cls-6" />
+     height="134.72"
+     id="rect38" />
   <polygon
-     id="polygon40"
-     points="332.64 368.74 339.58 395.61 305.29 364.06 332.64 368.74"
-     class="cls-6" />
+     transform="translate(56.023501,5.4657074)"
+     class="cls-6"
+     points="332.64,368.74 339.58,395.61 305.29,364.06 "
+     id="polygon40" />
   <polygon
-     id="polygon42"
-     points="740.35 369.03 766.73 363.97 735.29 395.42 740.35 369.03"
-     class="cls-6" />
+     transform="translate(56.023501,5.4657074)"
+     class="cls-6"
+     points="740.35,369.03 766.73,363.97 735.29,395.42 "
+     id="polygon42" />
   <path
-     id="path44"
-     transform="translate(0 39.37)"
-     d="M343.67,144.43V190H329.86v-45.6c0-2.8,3.1-5.07,6.91-5.07h0C340.58,139.36,343.67,141.63,343.67,144.43Z" />
+     d="m 399.6935,189.26571 v 45.57 h -13.81 v -45.6 c 0,-2.8 3.1,-5.07 6.91,-5.07 v 0 c 3.81,0.03 6.9,2.3 6.9,5.1 z"
+     id="path44" />
   <path
-     id="path46"
-     transform="translate(0 39.37)"
-     d="M744.73,144.67v45.6H730.92v-45.6c0-2.8,3.09-5.07,6.91-5.07h0C741.64,139.6,744.73,141.87,744.73,144.67Z" />
+     d="m 800.7535,189.50571 v 45.6 h -13.81 v -45.6 c 0,-2.8 3.09,-5.07 6.91,-5.07 v 0 c 3.81,0 6.9,2.27 6.9,5.07 z"
+     id="path46" />
   <text
-     transform="translate(60.74 743.84)"
-     id="text54"
-     class="cls-7">Sensor Optico <tspan
-   id="tspan48"
-   y="165.6"
-   x="154.48">reflexi</tspan><tspan
-   id="tspan50"
-   y="165.6"
-   x="644.35"
-   class="cls-8">v</tspan><tspan
-   id="tspan52"
-   y="165.6"
-   x="723.05">o</tspan></text>
+     y="750.67212"
+     x="66.205704"
+     class="cls-7"
+     id="text54">Sensor Optico <tspan
+   x="220.6857"
+   y="916.27216"
+   id="tspan48">reflexi</tspan><tspan
+   class="cls-8"
+   x="710.55566"
+   y="916.27216"
+   id="tspan50">v</tspan><tspan
+   x="789.25568"
+   y="916.27216"
+   id="tspan52">o</tspan></text>
   <text
-     id="text58"
-     transform="translate(675.46 1050.01) scale(0.98 1)"
-     class="cls-9">TCrt<tspan
-   id="tspan56"
+     class="cls-9"
+     transform="matrix(0.98,0,0,1,675.46,1050.01)"
+     id="text58">TCrt<tspan
+   class="cls-10"
+   x="172.78999"
    y="0"
-   x="172.79"
-   class="cls-10">5000</tspan></text>
+   id="tspan56">5000</tspan></text>
   <rect
-     id="rect60"
-     height="88.91"
-     width="323"
-     y="981.71"
-     x="660.96"
-     class="cls-11" />
+     class="cls-11"
+     x="661.01477"
+     y="981.76477"
+     width="359.78403"
+     height="88.800491"
+     id="rect60" />
   <path
-     transform="translate(0 39.37)"
-     id="path62"
-     d="M592.87,575.19a.73.73,0,0,0,1.22.36"
-     class="cls-2" />
+     class="cls-2"
+     d="m 648.8935,620.02571 a 0.73,0.73 0 0 0 1.22,0.36"
+     id="path62" />
   <path
-     id="path64"
-     transform="translate(0 39.37)"
-     d="M576.54,532.06l15.06,15.06a2.47,2.47,0,0,1-1.11,4.13l-20.57,5.51a2.47,2.47,0,0,1-3-3l5.51-20.57A2.47,2.47,0,0,1,576.54,532.06Z"
-     class="cls-12" />
+     class="cls-12"
+     d="m 632.5635,576.89571 15.06,15.06 a 2.47,2.47 0 0 1 -1.11,4.13 l -20.57,5.51 a 2.47,2.47 0 0 1 -3,-3 l 5.51,-20.57 a 2.47,2.47 0 0 1 4.11,-1.13 z"
+     id="path64" />
   <line
-     id="line66"
-     y2="544.06"
-     x2="618.96"
-     y1="579.1"
-     x1="583.92"
-     class="cls-2" />
+     class="cls-2"
+     x1="639.94348"
+     y1="584.56567"
+     x2="674.98352"
+     y2="549.5257"
+     id="line66" />
   <path
-     id="path68"
-     transform="translate(0 39.37)"
-     d="M587.46,543.27l35-35c4.55-4.55-2.52-11.62-7.08-7.07l-35,35c-4.56,4.56,2.51,11.63,7.07,7.07Z"
-     class="cls-2" />
+     class="cls-2"
+     d="m 643.4835,588.10571 35,-35 c 4.55,-4.55 -2.52,-11.62 -7.08,-7.07 l -35,35 c -4.56,4.56 2.51,11.63 7.07,7.07 z"
+     id="path68" />
   <path
-     id="path70"
-     transform="translate(0 39.37)"
-     d="M472.85,528.21l15.06-15.06a2.47,2.47,0,0,0-1.1-4.13l-20.57-5.51a2.47,2.47,0,0,0-3,3l5.52,20.57A2.46,2.46,0,0,0,472.85,528.21Z"
-     class="cls-12" />
+     class="cls-12"
+     d="m 528.8735,573.04571 15.06,-15.06 a 2.47,2.47 0 0 0 -1.1,-4.13 l -20.57,-5.51 a 2.47,2.47 0 0 0 -3,3 l 5.52,20.57 a 2.46,2.46 0 0 0 4.09,1.13 z"
+     id="path70" />
   <line
-     id="line72"
-     y2="594.94"
-     x2="515.27"
-     y1="559.9"
-     x1="480.24"
-     class="cls-2" />
+     class="cls-2"
+     x1="536.26349"
+     y1="565.36572"
+     x2="571.29352"
+     y2="600.4057"
+     id="line72" />
   <path
-     id="path74"
-     transform="translate(0 39.37)"
-     d="M476.7,524.07l35,35c4.55,4.55,11.63-2.52,7.07-7.08l-35-35c-4.55-4.56-11.63,2.51-7.07,7.07Z"
-     class="cls-2" />
+     class="cls-2"
+     d="m 532.7235,568.90571 35,35 c 4.55,4.55 11.63,-2.52 7.07,-7.08 l -35,-35 c -4.55,-4.56 -11.63,2.51 -7.07,7.07 z"
+     id="path74" />
 </svg>
