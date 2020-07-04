@@ -23,3 +23,4 @@
 aside.redes-sociais{background: transparent; width: 40px; height: 160px; bottom: 150px; margin-left: 50px; position: fixed;}
 aside.redes-sociais img{width: 100%; margin-top: 10px; transition: all .3s;}
 aside.redes-sociais img:hover{transform: translate(3px, -3px);}
+.saiba{background: #555; height: 300px; width: 100px; margin-left: 10px; bottom: 160px; position: absolute; border-radius: 3px}
