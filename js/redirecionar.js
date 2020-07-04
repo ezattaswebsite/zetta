@@ -1,3 +1,3 @@
-if(screen.width <= 480){
+if(screen.width < 480){
    	location.href="index.html";
  }
