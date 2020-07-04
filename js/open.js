@@ -1,4 +1,4 @@
-var x = queryAllSector("caixinha");
+var x = querySelectorAll("caixinha");
 if(screen.width > 480){
    	location.href="desktop.html";
  }
