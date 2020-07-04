@@ -1,6 +1,6 @@
 var num = 0;
 function trocaBanner(){
-	var imgs=['svg/ultrassonico.svg','svg/reflexivo.svg'];
+	var imgs=['png/ultrassonico.png','png/reflexivo.png'];
 	document.getElementById("banner").src=imgs[num];
 	if(num >=1){
 		num--;

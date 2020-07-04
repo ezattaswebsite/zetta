@@ -5,3 +5,4 @@ function animaScroll(){
 window.addEventListener('scroll', function(){
 	animaScroll();
 	});
+var x = window.scrollY;
