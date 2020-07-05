@@ -20,4 +20,6 @@
 .projetos p{margin-bottom: 9px}
 .projetos #saiba{border: 1px solid #ddd; padding: 3px; border-radius: 5px}
 @media(min-width: 470px){.cards{margin-left: 10%}}
-.saiba{background: #555; height: 300px; width: 100px; margin-left: 10px; bottom: 160px; position: absolute; border-radius: 3px; position: fixed;}
+.saiba{color: #eee; text-align: center; background: #555; height: 375px; width: 110px; margin-left: 10px; bottom: 160px; position: absolute; border-radius: 3px; position: fixed; font-family: verdana}
+.saiba h2{font-size: 13.5pt; border-bottom: 1px solid #333; padding-bottom: 5px}
+.saiba p{font-size: 11pt; margin-top: 5px}
