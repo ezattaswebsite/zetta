@@ -1,25 +1,25 @@
 .robo{width: 140px; height: 150px; position: fixed; bottom: 0px; background: transparent;}
 .robo img{width: 100%}
-.cards{display: block; width: 230px; height: 870px; background: transparent; margin-top: 80px; position: absolute; right: 10px}
-.card{display: flex; width: 90%; height: 150px; background: #555; margin: auto; margin-bottom: 15px; border-radius: 3px; font-family: verdana; font-size: 10pt; color: #ddd}
+.cards{display: block; width: 260px; height: 900px; background: transparent; margin-top: 80px; position: absolute; right: 10px}
+.card{display: flex; width: 90%; height: 165px; background: #555; margin: auto; margin-bottom: 15px; border-radius: 3px; font-family: verdana; font-size: 10pt; color: #ddd}
 .side{width: 45%; background: transparent;}
 .foto{width: 100%; height: 20%; background: #f57d14; border-bottom-right-radius: 5px; border-top-left-radius: 5px}
-.foto img{width: 50px; margin-top: 10px; margin-left: 20px; border-radius: 100%; border: 2px solid #f77d19;}
-.info{width: 100%; height: 80%; background: transparent; margin-top: 45px; margin-left: 5px; text-align: left;}
+.foto img{width: 70px; margin-top: 10px; margin-left: 20px; border-radius: 100%; border: 2px solid #f77d19;}
+.info{width: 100%; height: 80%; background: transparent; margin-top: 60px; margin-left: 5px; text-align: left;}
 .info li{font-size: 10pt; padding: 1px; list-style: none; margin-left: 5px}
 .conteudo{width: 100%; height: 30%}
 .conteudo .nome{border-bottom: 1px solid #333; padding-bottom: 10px}
-.conteudo .redes{background: transparent; height: 70%; width: 100%; margin-top: 22px;}
-.conteudo .redes a img{width: 30px; margin-bottom: 10px; padding: 3px}
+.conteudo .redes{background: transparent; height: 70%; width: 100%; margin-top: 30px;}
+.conteudo .redes a img{width: 30px; margin-bottom: 13px; padding: 5px}
 .conteudo .redes .ponta{margin-left: 25px}
-.conteudo .redes .contatar{border: 1px solid transparent; padding: 2px; margin-left: 0px; font-size: 10pt; color: #ddd; border-radius: 3px; background: #f77d19; padding-right: 15px; padding-left: 15px; font-weight: 600; text-decoration: none; text-transform: uppercase;}
+.conteudo .redes .contatar{border: 1px solid transparent; padding: 2px; margin-left: 15px; font-size: 10pt; color: #ddd; border-radius: 3px; background: #f77d19; padding-right: 15px; padding-left: 15px; font-weight: 600; text-decoration: none; text-transform: uppercase;}
 .conteudo h3{margin-top: 5px; margin-left: 10px; text-align: center;}
 .conteudo{width: 55%; background: transparent; border-radius: 5px}
 .projetos{text-align: center; color: #ddd; font-family: verdana; font-size: 10.5pt; margin: 3px}
 .projetos a{text-decoration: none; color: #ddd}
 .projetos p{margin-bottom: 9px}
 .projetos #saiba{border: 1px solid #ddd; padding: 3px; border-radius: 5px}
-@media(min-width: 470px){.cards{margin-left: 10%}}
-.saiba{color: #eee; text-align: center; background: #555; height: 375px; width: 110px; margin-left: 10px; bottom: 160px; position: absolute; border-radius: 3px; position: fixed; font-family: verdana}
+@media(min-width: 470px){.cards{margin-right: 20px; width: 325px} .conteudo .redes .contatar{padding-right: 30px; padding-left: 30px} .conteudo .redes .ponta{padding-left: 20px}}
+.saiba{padding: 5px; color: #eee; text-align: center; background: #555; height: 375px; width: 110px; margin-left: 10px; bottom: 160px; position: absolute; border-radius: 3px; position: fixed; font-family: verdana}
 .saiba h2{font-size: 13.5pt; border-bottom: 1px solid #333; padding-bottom: 5px}
 .saiba p{font-size: 11pt; margin-top: 5px}
