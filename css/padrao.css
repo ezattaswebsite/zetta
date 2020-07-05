@@ -11,15 +11,6 @@ footer{z-index: 30; background: #252525; width: 100%; height: 50px; position: fi
 footer article{display: flex; width: 70%; height: 100%; margin: auto;}
 footer article div{background: transparent; height: 40px; width: 40px; margin: auto;}
 footer article div img{width: 40px; height: 40px}
-.caixinha{position: fixed; width: 100%; height: 100%; background: #333; z-index: 30; top: 0}
-.caixinha .interno{height: 230px; width: 200px; background: transparent; margin: auto; margin-top: 60%; font-family: verdana; color: #ddd; text-align: center;}
-.caixinha .interno .imagem{height: 70px; width: 100%; background: #888; margin: 10px auto; border-radius: 5px}
-.caixinha .interno .imagem img{height: 95%; margin-top: 2px}
-.caixinha .interno .imagem #logo{height: 80%; margin: 5px;}
-.caixinha .interno p{margin-top: 5px;}
-.caixinha .interno p a{color: #f7fe00; text-decoration: none;}
-.caixinha .interno .texto{border: 1px solid #999; padding: 10px; padding-bottom: 15px; border-radius: 5px}
-@media(min-width: 320px){.caixinha{display: none;}}
 #refresh{background: #333; position: absolute; z-index: 999; width: 100%; height: 100%; display: none; top: 0; font-family: verdana; font-size: 9pt;}
 #refresh .interno{padding: 5px ; width: 200px; height: 120px; background: #444; margin-left: 50%; transform: translateX(-50%); display: flex; margin-top: 200px; border-radius: 5px}
 #refresh .interno .primeiro{height: 40px; width: 100%; background: transparent;}
@@ -31,3 +22,7 @@ footer article div img{width: 40px; height: 40px}
 @media(min-width: 485px){#refresh{display: block;} footer{display: none;} .secao{display: none;}}
 ::-webkit-scrollbar{width: 5px;}
 ::-webkit-scrollbar-thumb{border-radius: 30px; background: #444;}
+#abrir{display: none; background: #333; width: 100%; height: 100%; position: absolute; z-index: 999; top: 0;}
+#abrir a{background: #555; padding: 5px; color: #ff0; text-transform: uppercase; font-size: 15pt; text-decoration: none; font-family: orbitron; margin-left: 40%;}
+@media(max-width: 340px){#abrir{display: block;} header, footer{display: none;}}
+@media(min-width: 500px){#abrir{display: block;} header, footer{display: none;}}
