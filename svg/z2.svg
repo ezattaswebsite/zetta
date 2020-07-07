@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="1080"
+   width="1080"
+   sodipodi:docname="z2.svg"
+   id="svg57"
+   version="1.1"
+   viewBox="0 0 1080 1080">
+  <metadata
+     id="metadata61">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Z2</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg57"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="595.47463"
+     inkscape:cx="1161.5"
+     inkscape:zoom="0.2549298"
+     showgrid="false"
+     id="namedview59"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}.cls-2,.cls-5{fill:none;stroke-miterlimit:10;stroke-width:10px;}.cls-2{stroke:#ff0;}.cls-3{fill:#f7fe00;}.cls-4{fill:#ff0;}.cls-5{stroke:#000;}</style>
+  </defs>
+  <title
+     id="title6">Z2</title>
+  <g
+     data-name="Camada 1"
+     id="Camada_1">
+    <rect
+       id="rect8"
+       height="1079"
+       width="1079"
+       y="0.5"
+       x="0.5" />
+    <path
+       id="path10"
+       d="M 1079,1 V 1079 H 1 V 1 h 1078 m 1,-1 H 0 v 1080 h 1080 z"
+       class="cls-1" />
+  </g>
+  <g
+     data-name="Camada 3"
+     id="Camada_3">
+    <rect
+       id="rect13"
+       height="990"
+       width="990"
+       y="45"
+       x="45"
+       class="cls-2" />
+  </g>
+  <g
+     data-name="Camada 2"
+     id="Camada_2">
+    <path
+       id="path16"
+       d="m 139.8,347.85 h 387.85 l -385.29,396.43 -3.58,3.41 V 675.48 L 375.17,431.91 c 0,0 11.26,-12.39 -8.19,-11.85 -19.45,0.54 -228.2,-2.16 -228.2,-2.16 z"
+       class="cls-3" />
+    <path
+       id="path18"
+       d="M 533,763.41 H 141.6 L 350.05,547.77 529.58,364 l -1.93,72.2 -230,243.13 c 0,0 -11.26,12.39 8.18,11.85 19.44,-0.54 228.17,2.18 228.17,2.18 z"
+       class="cls-3" />
+  </g>
+  <g
+     data-name="Camada 4"
+     id="Camada_4">
+    <g
+       data-name="Camada 5"
+       id="Camada_5">
+      <polygon
+         id="polygon29"
+         points="906.88,551.55 903.43,553.09 698.9,644.36 646.8,667.61 624.05,677.76 619.82,667.61 598.44,616.3 598.44,565.67 624.8,553.91 806.42,472.86 881.18,439.51 906.88,501.19 "
+         class="cls-4" />
+      <rect
+         id="rect31"
+         height="93.400002"
+         width="314.72"
+         y="667.59998"
+         x="598.44"
+         class="cls-4" />
+      <polygon
+         id="polygon33"
+         points="698.9,667.61 598.44,667.61 598.44,565.67 624.8,553.91 698.9,553.91 "
+         class="cls-4" />
+      <rect
+         id="rect35"
+         height="136.44"
+         width="98.889999"
+         y="624.56"
+         x="814.27002"
+         class="cls-4" />
+      <rect
+         id="rect37"
+         transform="rotate(180,749.52,392.7)"
+         height="93.400002"
+         width="314.72"
+         y="346"
+         x="592.15997"
+         class="cls-4" />
+      <rect
+         id="rect39"
+         height="112.07"
+         width="100.46"
+         y="439.39999"
+         x="806.41998"
+         class="cls-4" />
+      <rect
+         id="rect41"
+         transform="rotate(180,641.605,414.22)"
+         height="136.44"
+         width="98.889999"
+         y="346"
+         x="592.15997"
+         class="cls-4" />
+      <polyline
+         id="polyline43"
+         points="836.16 343 836.16 436.4 836.16 447.67 836.16 515 786.42 536.52 678.9 583.02 621.16 608 621.16 664.6 621.16 667.12 621.16 758"
+         class="cls-5" />
+    </g>
+  </g>
+</svg>
