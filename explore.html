@@ -7,8 +7,11 @@
 	<link rel="icon" type="image/svg" href="svg/logo.svg">
 	<link rel="stylesheet" type="text/css" href="css/padrao.css">
 	<link rel="stylesheet" type="text/css" href="css/loading.css">
+	<link rel="stylesheet" type="text/css" href="css/explore.css">
 	<script type="text/javascript" src="js/open.js"></script>
 	<script type="text/javascript" src="js/loading.js"></script>
+	<script type="text/javascript" src="js/hand.js"></script>
+	<script type="text/javascript" src="js/topo.js"></script>
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171245772-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -29,12 +32,21 @@
 	<header>
 		<div class="logo">
 			<a href="index.html"><img src="svg/logo.svg" class="logotipo"></a>
-			<img src="svg/hand.svg" class="hand">
+			<img src="svg/hand.svg" class="hand" id="hand">
 		</div>
 		<div class="texto">
 			<h3>Explore Módulos</h3>
 		</div>
 	</header>
+	<nav class="posts">
+		<p>Aprenda sobre os módulos eletrônicos e suas curiosidades. Desvende suas inúmeras aplicações no universo da robótica, automação, IOT e muito mais.</p>
+	</nav>
+	<section class="post-modulos" id="post-um" onclick="reflexivo()">
+		<img src="post/banner-reflexivo.jpg" alt="Imagem do Sensor Ultrassõnico" class="capa">	
+	</section>
+	<section class="post-modulos" id="post-dois" onclick="ultrassonico()">
+		<img src="post/banner-ultrassonico.jpg" alt="Imagem do Sensor Óptico Reflexivo" class="capa">
+	</section>
 <!--////////////////////////////////////////////////////////////////////////////////////////////-->
 	<footer>
 		<article class="caixa">
@@ -49,4 +61,12 @@
 <div id="abrir">
 	<a href="hide.html">Abrir</a>
 </div>
+<script>
+	function reflexivo(){
+		location.href = "post-reflexivo.html"
+	}
+	function ultrassonico(){
+		location.href = "post-ultrassonico.html"
+	}
+</script>
 </html>
