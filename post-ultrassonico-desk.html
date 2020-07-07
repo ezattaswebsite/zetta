@@ -8,9 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/padrao.css">
     <link rel="stylesheet" type="text/css" href="css/loading.css">
     <link rel="stylesheet" type="text/css" href="css/post.css">
-	<script type="text/javascript" src="js/open.js"></script>
 	<script type="text/javascript" src="js/loading.js"></script>
-	<script type="text/javascript" src="js/post.js"></script>
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171245772-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -18,24 +16,24 @@
 	  gtag('js', new Date());
 	  gtag('config', 'UA-171245772-1');
 	</script>
-		<script>
-			var img = ['post/reflexivo.jpg', 'post/reflexivo-i.jpg', 'post/reflexivo-ii.jpg'];
-			var x = 0;
-			function trocar(){
-				if(x < 2){
-					x++;
+	<script>
+		var img = ['post/ultrassonico.jpg', 'post/ultrassonico-i.jpg'];
+		var x = 0;
+		function trocar2(){
+			if(x == 0){
+				x = 1;
+				next();
+			}else{
+				if(x == 1){
+					x = 0;
 					next();
-				}else{
-					if(x == 2){
-						x = 0;
-						next();
-					}
 				}
 			}
-			function next(){
-				document.getElementById("troca").src=img[x];
-			}
-		</script>
+		}
+		function next(){
+			document.getElementById("troca").src=img[x];
+		}
+	</script>
 </head>
 <!--////////////////////////////////////////////////////////////////////////////////////////////-->
 <div class="loading-screen" id="loading-screen">
@@ -51,18 +49,18 @@
 			<a href="index.html"><img src="svg/logo.svg" class="logotipo"></a>
 		</div>
 		<div class="texto">
-			<h3>Sensor Reflexivo</h3>
+			<h3>Sensor Ultrassônico</h3>
 		</div>
 	</header>
 	<nav class="quadro">
 		<section class="postagem">
-			<img src="post/reflexivo.jpg" alt="" id="troca">
+			<img src="post/ultrassonico.jpg" alt="" id="troca">
 		</section>
 	</nav>
 	<footer>
-		<a class="voltar" href="explore.html"><img src="svg/voltar.svg"></a>
-		<a class="return" href="#"><img src="svg/return.svg" onclick="trocar()"></a>
-		<a class="next" href="#"><img src="svg/next.svg" onclick="trocar()"></a>
+		<a class="voltar" href="explore-desktop.html"><img src="svg/voltar.svg"></a>
+		<a class="return" href="#"><img src="svg/return.svg" onclick="trocar2()"></a>
+		<a class="next" href="#"><img src="svg/next.svg" onclick="trocar2()"></a>
 	</footer>
 </body>
 <div id="abrir">

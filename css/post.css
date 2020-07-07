@@ -1,7 +1,8 @@
 body{overflow-x: hidden;}
 footer a img{width: 45px; margin-left: 10px;}
-nav.quadro{position: relative; width: 90%; height: 550px; background: transparent; top: 10px; margin-left: 50%; transform: translateX(-50%);}
-section.postagem{position: relative; width: 90%; height: 100%; background: transparent;  margin-left: 50%; transform: translateX(-50%); margin-top: 80px;}
-section.postagem img{height: 100%; margin-left: 50%; transform: translateX(-50%); border-radius: 3px;}
+nav.quadro{position: relative; width: 100%; height: 930px; background: transparent; top: 5px; margin-bottom: 80px;}
+section.postagem{position: relative; width: 100%; background: transparent; margin-top: 55px;}
+section.postagem img{width: 100%;; border-radius: 3px;}
 .next {margin-left: 5%;}
 .return{margin-left: 50%;}
+@media(max-width: 380px){nav.quadro{height: 700px;}}

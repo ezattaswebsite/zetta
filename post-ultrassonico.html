@@ -17,6 +17,24 @@
 	  gtag('js', new Date());
 	  gtag('config', 'UA-171245772-1');
 	</script>
+	<script>
+		var img = ['post/ultrassonico.jpg', 'post/ultrassonico-i.jpg'];
+		var x = 0;
+		function trocar2(){
+			if(x == 0){
+				x = 1;
+				next();
+			}else{
+				if(x == 1){
+					x = 0;
+					next();
+				}
+			}
+		}
+		function next(){
+			document.getElementById("troca").src=img[x];
+		}
+	</script>
 </head>
 <!--////////////////////////////////////////////////////////////////////////////////////////////-->
 <div class="loading-screen" id="loading-screen">
@@ -37,13 +55,13 @@
 	</header>
 	<nav class="quadro">
 		<section class="postagem">
-			<img src="post/ultrassonico.jpg" alt="">
+			<img src="post/ultrassonico.jpg" alt="" id="troca">
 		</section>
 	</nav>
 	<footer>
 		<a class="voltar" href="explore.html"><img src="svg/voltar.svg"></a>
-		<a class="return" href="#"><img src="svg/return.svg"></a>
-		<a class="next" href="#"><img src="svg/next.svg"></a>
+		<a class="return" href="#"><img src="svg/return.svg" onclick="trocar2()"></a>
+		<a class="next" href="#"><img src="svg/next.svg" onclick="trocar2()"></a>
 	</footer>
 </body>
 <div id="abrir">
