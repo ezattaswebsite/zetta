@@ -1,1 +1,13 @@
 nav.informes{background: #3f3f3f; width: 60%; height: 110px; margin-top: 70px; margin-left: 150px; border-radius: 3px;}
+.informes p{font-family: verdana; font-size: 9.5pt; color: #eee; text-align: center; padding: 1px; margin-top: 3px;}
+.campus{width: 80%; height: 370px; background: transparent; margin-top: 10px; margin-left: 50%; transform: translateX(-50%); border-radius: 3px;}
+.campus img{width: 100%; border-radius: 3px; border: 1px solid #444}
+.redessociais{width: 95%; height: 400px; background: #333; margin-top: 10px; margin-left: 50%; transform: translateX(-50%); border-radius: 3px; margin-bottom: 60px;}
+.redessociais h3{font-family:  'orbitron'; margin-left: 30px; margin-top: 10px; padding-top: 10px; color: #fafa00; }
+.redessociais h3 b{border-bottom: 1px solid #222; padding-bottom: 5px;}
+#social{width: 80%; height: 26%; background: #444; margin-top: 20px; margin-left: 50%; transform: translateX(-50%); display: flex; border-radius: 3px;}
+.infos{width: 70%; height: 100%; background: transparent; float: right;}
+.infos p{font-family: verdana; font-size: 10pt; color: #eee; text-align: justify; margin: 7px;}
+.redessociais a{width: 30%; height: 100%;}
+.redessociais a img{height: 90%; margin: 5px;}
+@media(min-width: 480px){.redessociais h3{margin-left: 90px;} .informes p{padding: 15px;} .infos p{padding-top: 7px;}}
