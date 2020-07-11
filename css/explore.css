@@ -1,6 +1,6 @@
 nav.posts{width: 60%; height: 110px; background: #3e3e3e; margin-top: 70px; margin-left: 140px; position: relative; display: inline-block; border-radius: 3px;}
 nav.posts p{text-align: center; font-family: verdana; font-size: 10pt; color: #eee; padding: 3px;}
-@media(min-width: 470px){nav.posts p{margin-top: 10px;}}
+@media(min-width: 470px){nav.posts p{margin-top: 20px;}}
 section.post-modulos{background: #444; width: 90%; height: 200px; border: 1px solid transparent; margin-left: 50%; transform: translateX(-50%);margin-top: 10px; border-radius: 3px;}
 section.post-modulos:hover{border: 1px solid #00acee}
 img.capa{height: 100%; margin-left: 50%; transform: translateX(-50%);}
